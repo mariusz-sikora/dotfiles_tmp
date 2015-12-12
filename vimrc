@@ -30,6 +30,9 @@ set backspace=2
 set spell spelllang=en_us
 set nospell
 
+set exrc
+set secure
+
 " size of hard tabstop
 set tabstop=4
 
