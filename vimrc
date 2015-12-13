@@ -30,6 +30,8 @@ set backspace=2
 set spell spelllang=en_us
 set nospell
 
+set cursorline
+
 set exrc
 set secure
 
@@ -45,3 +47,5 @@ set smarttab
 
 "always uses spaces instead of tab characters
 set expandtab
+
+let g:NERDTreeWinSize=40
